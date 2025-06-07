@@ -16,7 +16,7 @@ Decryption = Unlocking the message with the correct key
 <br />
 
 ✅ Technical definition : <br >
-🔹 Encryption and decryption are used to protect sensitive data, like passwords, credit card numbers, or confidential files. <br />
+🔹 Encryption & decryption are used to protect sensitive data, like passwords, credit card num, or confidential files. <br />
 🔹 Encryption - The process of converting plain text into unreadable text (cipher text) using an algorithm and a key. <br />
 🔹 Decryption - Th eprocess of converting cipher text back into readable plain text using the same (or a related) key. <br />
 
