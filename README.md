@@ -16,7 +16,7 @@ Decryption = Unlocking the message with the correct key
 <br />
 
 ✅ Technical definition : <br >
-🔹 In C#, encryption and decryption are used to protect sensitive data, like passwords, credit card numbers, or confidential files. <br />
+🔹 Encryption and decryption are used to protect sensitive data, like passwords, credit card numbers, or confidential files. <br />
 🔹 Encryption - The process of converting plain text into unreadable text (cipher text) using an algorithm and a key. <br />
 🔹 Decryption - Th eprocess of converting cipher text back into readable plain text using the same (or a related) key. <br />
 
@@ -28,7 +28,7 @@ Decryption = Unlocking the message with the correct key
 ## 🚀 Features  
 ✅ It uses the secure AES (Advanced Encryption Standard) algorithm to encrypt and decrypt text data. <br />
 ✅ Menu-driven UI makes it easy to choose between encryption, decryption, or exit operations. <br />
-✅ Self-contained and Lightweight - No external dependencies; runs as a standalone console application targeting .NET Framework 4.7.2. <br />
+✅ Self-contained and Lightweight - runs as a standalone console application targeting .NET Framework 4.7.2. <br />
 ✅ Uses a predefined 128-bit key and IV for consistent encryption and decryption (for demonstration). <br />
 ✅ Handles decryption failures gracefully with user-friendly messages for invalid input or formatting. <br />
 
