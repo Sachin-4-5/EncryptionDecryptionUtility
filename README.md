@@ -25,6 +25,30 @@ Decryption = Unlocking the message with the correct key
 
 
 
+## 🔑 Algorithms Used
+```
+1. AES Encryption (Symmetric Key Encryption) : 
+   🔹 It stands for Advanced Encryption Standard.
+   🔹 It uses only one secret key to both encrypt and decrypt data.
+   🔹 Useful in encrypting passwords, tokens in a DB
+
+2. RSA Encryption (Asymmetric Key Encryption) :
+   🔹 It uses two keys - a public key to encrypt and a private key to decrypt.
+   🔹 Only someone with the private key can decrypt what was encrypted with the public key.
+   🔹 Useful when sending secure data over the internet to someone (e.g., SSL, JWT) or Secure communication between untrusted parties.
+
+3. File Encryption using AES :
+   🔹 Same as AES, but used to encrypt entire files instead of strings.
+   🔹 Useful in encrypting personal documents (PDFs, reports) on disk.
+   
+```
+
+---
+<br />
+
+
+
+
 ## 🚀 Features  
 ✅ It uses the secure AES (Advanced Encryption Standard) algorithm to encrypt and decrypt text data. <br />
 ✅ Menu-driven UI makes it easy to choose between encryption, decryption, or exit operations. <br />
@@ -34,6 +58,26 @@ Decryption = Unlocking the message with the correct key
 
 ---
 <br />
+
+
+
+## 📁 Project Structure
+```
+EncryptionDecryptionUtility
+│
+├── bin\ 
+├── obj\ 
+├── Properties\
+├── App.config
+├── Program.cs              → Main menu and user interaction
+├── AES_EncryptDecrypt.cs   → AES encryption/decryption
+├── RSA_EncryptDecrypt.cs   → RSA encryption/decryption
+└── File_EncryptDecrypt.cs  → AES-based file encryption
+```
+
+---
+<br />
+
 
 
 
