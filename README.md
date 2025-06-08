@@ -30,15 +30,19 @@ Decryption = Unlocking the message with the correct key
 1. AES Encryption (Symmetric Key Encryption) : 
    🔹 It stands for Advanced Encryption Standard.
    🔹 It uses only one secret key to both encrypt and decrypt data.
+   🔹 It uses IV (Initialization Vector) - Even if the same key and same plain text are used, IV ensures that the result is different each time.
    🔹 Useful in encrypting passwords, tokens in a DB
 
 2. RSA Encryption (Asymmetric Key Encryption) :
    🔹 It uses two keys - a public key to encrypt and a private key to decrypt.
    🔹 Only someone with the private key can decrypt what was encrypted with the public key.
+   🔹 With symmetric keys (like AES), we have to share the key, which can be risky. RSA removes this risk: you give out the public key, but never share the private key.
    🔹 Useful when sending secure data over the internet to someone (e.g., SSL, JWT) or Secure communication between untrusted parties.
 
 3. File Encryption using AES :
    🔹 Same as AES, but used to encrypt entire files instead of strings.
+   🔹 AES is fast and secure — good for large data (like files).
+   🔹 It use the same AES key and IV here too.
    🔹 Useful in encrypting personal documents (PDFs, reports) on disk.
    
 ```
