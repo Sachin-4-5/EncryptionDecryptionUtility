@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{386EC18F-35AF-4BB2-8154-A015727323F2}|EncryptionDecryptionUtility.csproj|d:\\projects\\console application - 3\\encryptiondecryptionutility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386EC18F-35AF-4BB2-8154-A015727323F2}|EncryptionDecryptionUtility.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386EC18F-35AF-4BB2-8154-A015727323F2}|EncryptionDecryptionUtility.csproj|D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\file_encryptdecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386EC18F-35AF-4BB2-8154-A015727323F2}|EncryptionDecryptionUtility.csproj|solutionrelative:file_encryptdecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386EC18F-35AF-4BB2-8154-A015727323F2}|EncryptionDecryptionUtility.csproj|D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\rsa_encryptdecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386EC18F-35AF-4BB2-8154-A015727323F2}|EncryptionDecryptionUtility.csproj|solutionrelative:rsa_encryptdecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386EC18F-35AF-4BB2-8154-A015727323F2}|EncryptionDecryptionUtility.csproj|D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\aes_encryptdecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386EC18F-35AF-4BB2-8154-A015727323F2}|EncryptionDecryptionUtility.csproj|solutionrelative:aes_encryptdecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T02:58:54.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AES_EncryptDecrypt.cs",
+              "DocumentMoniker": "D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\AES_EncryptDecrypt.cs",
+              "RelativeDocumentMoniker": "AES_EncryptDecrypt.cs",
+              "ToolTip": "D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\AES_EncryptDecrypt.cs",
+              "RelativeToolTip": "AES_EncryptDecrypt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T04:40:48.244Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RSA_EncryptDecrypt.cs",
+              "DocumentMoniker": "D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\RSA_EncryptDecrypt.cs",
+              "RelativeDocumentMoniker": "RSA_EncryptDecrypt.cs",
+              "ToolTip": "D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\RSA_EncryptDecrypt.cs",
+              "RelativeToolTip": "RSA_EncryptDecrypt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T04:40:51.447Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File_EncryptDecrypt.cs",
+              "DocumentMoniker": "D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\File_EncryptDecrypt.cs",
+              "RelativeDocumentMoniker": "File_EncryptDecrypt.cs",
+              "ToolTip": "D:\\Projects\\Console Application - 3\\EncryptionDecryptionUtility\\File_EncryptDecrypt.cs",
+              "RelativeToolTip": "File_EncryptDecrypt.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T04:40:54.087Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
