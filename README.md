@@ -1,7 +1,7 @@
 ## EncryptionDecryptionUtility
 
 ### 📖 Overview  
-EncryptionDecryptionUtility is a .NET Framework 4.7.2 console-based utility designed to perform symmetric encryption and decryption of textual data using the AES algorithm. 
+EncryptionDecryptionUtility is a .NET Framework v4.7.2 console-based utility designed to perform symmetric encryption and decryption of textual data using the AES algorithm. 
 The tool provides a simple menu-driven interface that allows users to securely encrypt sensitive information or decrypt previously encrypted data. 
 This utility is ideal for scenarios where quick and local encryption of data is required without relying on external tools or libraries.
 
